@@ -1,7 +1,7 @@
 ---
 ---
 ID: 142
-post_title: 535 Elijah Mimicks me
+post_title: Elijah Mimicks me
 author: ng23055
 post_excerpt:
 layout: post
