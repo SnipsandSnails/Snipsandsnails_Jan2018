@@ -40,13 +40,13 @@ Greta Hundertmark Congrats Jon and Teresa!!
 
 <b>SY Taylor</b> Welcome to this crazy exciting world, Elijah!!
 
-PAGE_BREAK: PageBreak
+&nbsp;
 
 <img title="" src="http://snipsandsnails.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/02/null-109.jpeg" alt="" width="624" height="468" />
 <h2>Comments</h2>
 <b>SY Taylor</b> Wow, he's already got his eyes open checking everything out ( or at least as much as he is able to see at his age!)!
 
-PAGE_BREAK: PageBreak
+&nbsp;
 
 <img title="" src="http://snipsandsnails.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/02/null-110.jpeg" alt="" width="624" height="832" />
 <h2>Comments</h2>
@@ -62,7 +62,7 @@ PAGE_BREAK: PageBreak
 
 <b>Jeffrey Boyne</b> Very cute! Welcome to the world Elijah!
 
-PAGE_BREAK: PageBreak
+&nbsp;
 <h1>Circumcision</h1>
 <b>Jon Morgan</b>
 
@@ -70,7 +70,7 @@ Update: Elijah will be seen by the doctor for his circumcision soon.
 <h2>Comments</h2>
 <b>Crystal Watanabe</b> Hope that goes well!!! My ped was out, so his fellow associate did it and she didn't put enough vasoline, which left me pulling crusted gauze off my poor screaming son's peepee. Talk about traumatizing...
 
-PAGE_BREAK: PageBreak
+&nbsp;
 <h1>Picture Time</h1>
 <img title="" src="http://snipsandsnails.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/02/null-111.jpeg" alt="" width="624" height="468" />
 
@@ -124,7 +124,7 @@ How are things going today?
 
 <b>Susan Boyne- Volz</b> Love you Kayla and Josh, tell that doctor to hurry up!!
 
-PAGE_BREAK: PageBreak
+&nbsp;
 <h1>Little bit off the top</h1>
 <b>Jon Morgan</b>
 
@@ -138,7 +138,7 @@ February 2, 2013 at 12:31pm near Mount Pleasant, MI
 
 <b>Jon Morgan</b> Hey
 
-PAGE_BREAK: PageBreak
+&nbsp;
 <h1>Cute when he’s Sleeping</h1>
 &nbsp;
 
@@ -152,7 +152,7 @@ He's cute when he's sleeping. — with <a href="https://www.facebook.com/theresa
 
 <b>Nancy Boyne</b> ya your going home I take it
 
-PAGE_BREAK: PageBreak
+&nbsp;
 <h1>Gauze</h1>
 &nbsp;
 
@@ -187,7 +187,7 @@ Update: test came back good, and we completed a review of the owner's manual for
 
 <b>Ruth Remsing</b> yeah, how come i didn't get a manual?
 
-PAGE_BREAK: PageBreak
+&nbsp;
 
 <b>Jon Morgan</b>
 
