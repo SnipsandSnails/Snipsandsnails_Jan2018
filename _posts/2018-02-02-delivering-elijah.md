@@ -10,16 +10,7 @@ permalink: >
 published: true
 post_date: 2018-02-02 00:56:35
 ---
-<h1>Delivering Elijah</h1>
-<img title="" src="http://snipsandsnails.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/02/image.jpeg" alt="" width="32" height="32" />
-<h5><b>Jon Morgan</b> created the group.</h5>
-<i>Like · · August 11, 2012 at 5:59pm </i>
-
-&nbsp;
-
-&nbsp;
-
-<hr />
+<i>August 11, 2012 at 5:59pm </i>
 
 &nbsp;
 
