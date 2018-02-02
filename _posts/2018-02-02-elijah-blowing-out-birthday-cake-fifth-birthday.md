@@ -1,7 +1,7 @@
 ---
 ---
 ID: 298
-post_title: Elijah Blowing out Birthday cake
+post_title: Elijah Blowing out Birthday Candles
 author: ng23055
 post_excerpt:
 layout: post
