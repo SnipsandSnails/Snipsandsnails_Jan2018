@@ -1,7 +1,7 @@
 ---
 ---
 ID: 38
-post_title: 'A020 Delivering Elijah: January 2013'
+post_title: 'Delivering Elijah: January 2013'
 author: ng23055
 post_excerpt:
 layout: post
