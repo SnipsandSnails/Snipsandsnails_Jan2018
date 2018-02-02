@@ -10,7 +10,6 @@ permalink: >
 published: true
 post_date: 2018-02-02 03:04:03
 ---
-<h1></h1>
 <img title="" src="http://snipsandsnails.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/02/10402613_270307653153176_5219982730209337423_n.jpg.jpeg" alt="10402613_270307653153176_5219982730209337423_n.jpg" width="337" height="252" />
 
 This afternoon, we took our sixteen-month-old son Elijah to the hair salon in Walmart to get his very first haircut. Although we loved the way that his hair curled up and added to his overall cuteness, it was getting pretty long.
