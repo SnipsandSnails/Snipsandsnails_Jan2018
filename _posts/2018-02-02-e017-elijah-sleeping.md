@@ -1,7 +1,7 @@
 ---
 ---
 ID: 155
-post_title: E017 Elijah Sleeping
+post_title: Elijah Sleeping
 author: ng23055
 post_excerpt:
 layout: post
