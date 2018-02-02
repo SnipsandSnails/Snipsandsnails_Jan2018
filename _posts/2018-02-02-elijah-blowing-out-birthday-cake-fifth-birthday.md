@@ -1,9 +1,7 @@
 ---
 ---
 ID: 298
-post_title: >
-  Elijah Blowing out Birthday cake fifth
-  birthday
+post_title: Elijah Blowing out Birthday cake
 author: ng23055
 post_excerpt:
 layout: post
