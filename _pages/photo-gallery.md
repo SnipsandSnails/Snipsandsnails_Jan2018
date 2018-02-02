@@ -1,7 +1,7 @@
 ---
 ---
 ID: 304
-post_title: Photo Gallery
+post_title: Photos
 author: ng23055
 post_excerpt:
 layout: page
